@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd" version="1.0">
+  <SetDTE ID="LibreDTE_SetDoc">
+    <Caratula version="1.0">
+      <RutEmisor>76789922-K</RutEmisor>
+      <RutEnvia>15382565-3</RutEnvia>
+      <RutReceptor>96722400-6</RutReceptor>
+      <FchResol>2014-08-22</FchResol>
+      <NroResol>80</NroResol>
+      <TmstFirmaEnv>2024-02-05T15:58:12</TmstFirmaEnv>
+      <SubTotDTE>
+        <TpoDTE>33</TpoDTE>
+        <NroDTE>1</NroDTE>
+      </SubTotDTE>
+    </Caratula>
+    <DTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+	<Documento ID="F937T33">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>33</TipoDTE>
+				<Folio>937</Folio>
+				<FchEmis>2024-01-30</FchEmis>
+				<TpoTranVenta>1</TpoTranVenta>
+				<TermPagoGlosa>CREDITO</TermPagoGlosa>
+				<FchVenc>2024-02-29</FchVenc>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>76789922-K</RUTEmisor>
+				<RznSoc>EDGECONNEX CHILE SPA</RznSoc>
+				<GiroEmis>ACTIVIDADES REL CON BASE DE DATOS, COUBICACION Y SS TELECOMUNICACIONES</GiroEmis>
+				<CorreoEmisor>operations@pso.cl</CorreoEmisor>
+				<Acteco>619090</Acteco>
+				<DirOrigen>EL BOSQUE 92 ST. 1 A 1 -A , Depto. P6</DirOrigen>
+				<CmnaOrigen>LAS CONDES</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>96722400-6</RUTRecep>
+				<RznSocRecep>PACIFICO CABLE SPA</RznSocRecep>
+				<GiroRecep>OTROS SERVICIOS DE TELECOMUNICACIONES AL</GiroRecep>
+				<DirRecep>Tucapel 2827, Valle Escondidio</DirRecep>
+				<CmnaRecep>CONCEPCION</CmnaRecep>
+				<CiudadRecep>CONCEPCION</CiudadRecep>
+			</Receptor>
+			<Totales>
+				<MntNeto>916160</MntNeto>
+				<MntExe>0</MntExe>
+				<TasaIVA>19</TasaIVA>
+				<IVA>174070</IVA>
+				<MntTotal>1090230</MntTotal>
+			</Totales>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>42</VlrCodigo>
+			</CdgItem>
+			<NmbItem>Usage: Remote Hands 1 Day</NmbItem>
+			<DscItem>Ticket: 822574: 12/19/23: Requested by: carlos.meza@mundopacifico.cl SOF ID: RVRH-EDCSCL01-PACIFICO Periodo de facturaci&#xF3;n: 01/01/2024-01/31/2024  Total USD: $1.190,00  Valor USD: 916,16 USD al 29.01.2024  Invoice: 1-194-452</DscItem>
+			<QtyItem>4</QtyItem>
+			<UnmdItem>UN</UnmdItem>
+			<PrcItem>229040</PrcItem>
+			<MontoItem>916160</MontoItem>
+		</Detalle>
+	<TED version="1.0"><DD><RE>76789922-K</RE><TD>33</TD><F>937</F><FE>2024-01-30</FE><RR>96722400-6</RR><RSR>PACIFICO CABLE SPA</RSR><MNT>1090230</MNT><IT1>Usage: Remote Hands 1 Day</IT1><CAF version="1.0"><DA><RE>76789922-K</RE><RS>EDGECONNEX CHILE SPA</RS><TD>33</TD><RNG><D>903</D><H>1002</H></RNG><FA>2024-01-26</FA><RSAPK><M>nQN/RpZW4yEN167hxHr3J5oXVCiz9XqA6l4cO4k7Dxrx6TeYMyWUHrivH1Gy7Oon84qukcKOhWMEld8Yl57TMQ==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">kFUTqnij8sjvt7fp96RaDBgghgwnLYBqUOHiXNMnu1GUzv9nNDrQkuUxhTkXGRQBRZYL6rctFUt19SBCBUQ0lA==</FRMA></CAF><TSTED>2024-02-05T11:27:25</TSTED></DD><FRMT algoritmo="SHA1withRSA">ahcZwH9bf2W2gVsxW55IntRAyyO5FDp7pgDsfavgEHCwXnL41l7Txcj3U1vR99wvR2yIzgRBlHvfux/qbNnMNA==</FRMT></TED><TmstFirma>2024-02-05T11:27:25</TmstFirma></Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#F937T33"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>E50Rq8fRevRHfKw/smeDYE7Z4oY=</DigestValue></Reference></SignedInfo><SignatureValue>snYwB8Ymq+9yBBHjLNbbsZTNsYc82wnkpSNtwM3rYg0Yn6TvZfZrLYKseb/Y+aP0I68/Pp+xZJJs
+40VQm0GZicgtqP8tJL6jsgXiuVgBSEKd8bDnjfneOZBGajLvMetvqM+V9ZlsPbwBNlanbM89pYEf
+sYwPWdnCMH+bqCn1hMzB1ilKMSVOrmQh4WOl/mKPwoEZGLzv4DQGV14dGV7v6ESHRo6oGiwn9Xgu
+/Ew8YKVdmTexvQSUssidf4eqj7zUrdzso+zGWNXvlrhe8Am5XLFRKbuyLNHosmWmMvtT/lVP/rJW
+/1ZfLf9RYLxz4WqU/up3W6A0D+By5sD3tmXsTg==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>yL3ENv2PvrMoHm0JHyjbOPsLTbsCLwIe38WRi+BwQeFHLzaTrgDCE6sHWC10OgCgLqqveDpwcpJ7
+E5DxpYDQX25SNn/5eXsShOXxnwPBe8O9pwez/iww/+0j0mvB7VmuXV4MYwQPV9lZF26JkRTzPcqa
+y1i9MPAlGvpbVz8wcNvkSqkOvqBpCSBGNRh4i0HE+S/t6ZsIe+THKSH1NMHZTci+cSkNuvxhQlCF
+54wNdcJXBI3NNcZ75UyTD4ORgPpRheKiugnAHVhl/X2i0qTjly1fShiP7bog2+7flCc6KYpc+oL+
+9dotXoY1E2eOI1m4bL1FYhOi7ewGd4XB1PDZWw==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIHyTCCBbGgAwIBAgIKJyLSfwABAARt5TANBgkqhkiG9w0BAQsFADCBvzELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMR4wHAYDVQQD
+ExVFLUNFUlRDSElMRSBDQSBGRVMgMDIxJjAkBgkqhkiG9w0BCQEWF3NjbGllbnRlQGUtY2VydGNo
+aWxlLmNsMB4XDTIzMDEyMzE4MDIxMVoXDTI2MDEyMjE4MDIxMVowgcUxCzAJBgNVBAYTAkNMMSIw
+IAYDVQQIExlNRVRST1BPTElUQU5BIERFIFNBTlRJQUdPMREwDwYDVQQHEwhTQU5USUFHTzEgMB4G
+A1UEChMXRURHRUNPTk5FWCBDSElMRSBJSSBTUEExCjAIBgNVBAsMASoxKTAnBgNVBAMTIEFMRk9O
+U08gSUdOQUNJTyBVR0FSVEUgQ0lGVUVOVEVTMSYwJAYJKoZIhvcNAQkBFhdPUEVSQVRJT05TQFBV
+RU5URVNVUi5DTDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMi9xDb9j76zKB5tCR8o
+2zj7C027Ai8CHt/FkYvgcEHhRy82k64AwhOrB1gtdDoAoC6qr3g6cHKSexOQ8aWA0F9uUjZ/+Xl7
+EoTl8Z8DwXvDvacHs/4sMP/tI9Jrwe1Zrl1eDGMED1fZWRduiZEU8z3KmstYvTDwJRr6W1c/MHDb
+5EqpDr6gaQkgRjUYeItBxPkv7embCHvkxykh9TTB2U3IvnEpDbr8YUJQheeMDXXCVwSNzTXGe+VM
+kw+DkYD6UYXioroJwB1YZf19otKk45ctX0oYj+26INvu35QnOimKXPqC/vXaLV6GNRNnjiNZuGy9
+RWITou3sBneFwdTw2VsCAwEAAaOCAr0wggK5MIIBXwYDVR0gBIIBVjCCAVIwggFOBggrBgEEAcNS
+BTCCAUAwPQYIKwYBBQUHAgEWMWh0dHBzOi8vd3d3LmUtY2VydGNoaWxlLmNsL3BvbGl0aWNhcy15
+LXByYWN0aWNhcy8wgf4GCCsGAQUFBwICMIHxHoHuAEUAbAAgAHIAZQBzAHAAbwBuAGQAZQByACAA
+ZQBzAHQAZQAgAGYAbwByAG0AdQBsAGEAcgBpAG8AIABlAHMAIAB1AG4AIAByAGUAcQB1AGkAcwBp
+AHQAbwAgAGkAbgBkAGkAcwBwAGUAbgBzAGEAYgBsAGUAIABwAGEAcgBhACAAZABhAHIAIABpAG4A
+aQBjAGkAbwAgAGEAbAAgAHAAcgBvAGMAZQBzAG8AIABkAGUAIABjAGUAcgB0AGkAZgBpAGMAYQBj
+AGkA8wBuAC4AIABQAG8AcwB0AGUAcgBpAG8AcgBtAGUAbgB0AGUALDAdBgNVHQ4EFgQU1qgzFXKk
+XCmuoiO5Qt0nvt2QR+gwCwYDVR0PBAQDAgTwMCMGA1UdEQQcMBqgGAYIKwYBBAHBAQGgDBYKMTUz
+ODI1NjUtMzAfBgNVHSMEGDAWgBR01iGz9FroLXy7WQZjQ+9ptDqTBDBABgNVHR8EOTA3MDWgM6Ax
+hi9odHRwOi8vY3JsLmVjZXJ0Y2hpbGUuY2wvRS1DRVJUQ0hJTEVDQUZFUzAyLmNybDA9BggrBgEF
+BQcBAQQxMC8wLQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3NwZmVzLmVjZXJ0Y2hpbGUuY2wvb2NzcDA8
+BgkrBgEEAYI3FQcELzAtBiUrBgEEAYI3FQiB3dJNl9Q6homdBoeIzm+Dr8xgRYbS7AiGx8p9AgFk
+AgEHMCMGA1UdEgQcMBqgGAYIKwYBBAHBAQKgDBYKOTY5MjgxODAtNTANBgkqhkiG9w0BAQsFAAOC
+AgEAY+dl2UVdSaoWZk/TRBjipuEyOEA4zQ4CsM863bYawmcuXX0/zhz4OirsEbYvDzXJJsvQzEeD
+SiJaaGmqB166e5nOqwqihKbF0KTZKPmUoCbBRC68Iakxepfi/oHo6+VfMWZV5VkDynKevEytfgmS
++9KIJ3IfPseZJg2ehevb+nDe7bHVrz1SI83TssVTD4xC54JDUpb7MnVL7liGqBzibHL2iOd/Pcfs
+6twDxCgc8hrlrCEOwaeDYNM/a2gspKKPDs4vCcj3ZIuy+XH08DkgfJXIncDc13PMQvMPr3mz39FS
+YT4ArHSwJa3W04ZZYtslH/+nhkDMScMOm34sBhHn1215vUSKlCggTNsZ0Lnw9evjryCePozkUi+9
+qB0hulkpUumH7BMlB5kahCnr/E8X9qLE4Ny44BclPGxohEhK1zetuaixl6cy3YYCJVqK2d2MtHZ3
+RoViSRTbl/gG2ZhHIWpbE5L0uYHwPCXL6PZeTOqOrjz/fCoKaeRkSAP8yZ+SgjF1iL1G7xXfcklM
+/nCeBulkezcIsmgDTGoJnySGkBJonM69UF0v4PEtR2BiWcKhc07BGAO9ckaKjlmE1nG+lLWfs0g0
+2AwAZEslJ1reSSCqA9sB101rI9DoVUfgbIb6QYET/uj6cJR+Hpb2/jJ/13kG9ynAIPuwccCwZq3X
+s88=</X509Certificate></X509Data></KeyInfo></Signature></DTE>
+  </SetDTE>
+</EnvioDTE>
