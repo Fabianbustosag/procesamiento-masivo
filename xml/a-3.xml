@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd" version="1.0">
+  <SetDTE ID="LibreDTE_SetDoc">
+    <Caratula version="1.0">
+      <RutEmisor>96689310-9</RutEmisor>
+      <RutEnvia>13682925-4</RutEnvia>
+      <RutReceptor>96722400-6</RutReceptor>
+      <FchResol>2010-05-31</FchResol>
+      <NroResol>89</NroResol>
+      <TmstFirmaEnv>2024-02-02T17:52:26</TmstFirmaEnv>
+      <SubTotDTE>
+        <TpoDTE>33</TpoDTE>
+        <NroDTE>1</NroDTE>
+      </SubTotDTE>
+    </Caratula>
+    <DTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+	<Documento ID="S20240130T33F50811457">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>33</TipoDTE>
+				<Folio>50811457</Folio>
+				<FchEmis>2024-01-30</FchEmis>
+				<IndServicio>3</IndServicio>
+				<FmaPago>1</FmaPago>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>96689310-9</RUTEmisor>
+				<RznSoc>TRANSBANK S.A.</RznSoc>
+				<GiroEmis>OPERADORA DE TARJETA DE CREDITO Y DEBITO</GiroEmis>
+				<Acteco>671921</Acteco>
+				<DirOrigen>HUERFANOS 770 PISO 10</DirOrigen>
+				<CmnaOrigen>SANTIAGO</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+            <Receptor>
+				<RUTRecep>96722400-6</RUTRecep>
+				<CdgIntRecep>096722400</CdgIntRecep>
+				<RznSocRecep>PACIFICO CABLE SPA</RznSocRecep>
+				<GiroRecep>TELECOMUNICACIONES</GiroRecep>
+				<DirRecep>RIOSECO 173    Local SN</DirRecep>
+				<CmnaRecep>LEBU</CmnaRecep>
+				<CiudadRecep>LEBU</CiudadRecep>
+			</Receptor>
+			<Totales>
+				<MntNeto>14487268</MntNeto>
+				<TasaIVA>19.00</TasaIVA>
+				<IVA>2752581</IVA>
+				<IVAProp>2752581</IVAProp>
+				<MntTotal>17239849</MntTotal>
+			</Totales>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<NmbItem>COMISION POR VENTAS INTERNACIONALES                   0</NmbItem>
+			<MontoItem>4275</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>2</NroLinDet>
+			<NmbItem>COMISION POR VENTAS NACIONALES                        0</NmbItem>
+			<MontoItem>14482993</MontoItem>
+		</Detalle>
+<TED version="1.0"><DD><RE>96689310-9</RE><TD>33</TD><F>50811457</F><FE>2024-01-30</FE><RR>96722400-6</RR><RSR>PACIFICO CABLE SPA</RSR><MNT>17239849</MNT><IT1>COMISION POR VENTAS INTERNACIONALES     </IT1><CAF version="1.0"><DA><RE>96689310-9</RE><RS>TRANSBANK S A</RS><TD>33</TD><RNG><D>50788233</D><H>50888232</H></RNG><FA>2024-01-02</FA><RSAPK><M>04KeqEssibTK/my1ei8LqxZOx2cB1ke5T+a1H2lO1H1C0Ye8ylHet6PBX7F9+DbstfYQtub3pnz9mIU3g2bFPQ==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">dds6Mq9JJIxJr5dAi5ydb2RuB/Cgjbgcpnf84KRTTOBhn/N1Qh9wKJ4jk/K8UlwAwHOOPHTENm8HEubn/QAojw==</FRMA></CAF><TSTED>2024-02-01T11:43:46</TSTED></DD><FRMT algoritmo="SHA1withRSA">MWc55PG4Mtc/pnDIb8Gv6/lHK7hzEYSJ3Y+IUHGZ4EgdI2VVQf1AN/9Y9lcysS0o/K+3t8XZx4lG
+nGGQ9vXZbw==
+</FRMT></TED>
+<TmstFirma>2024-02-01T11:43:46</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+  <SignedInfo>
+    <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+    <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+    <Reference URI="#S20240130T33F50811457">
+      <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+      <DigestValue>1SCd42PJhwbrcrGrlFy5IpdK/VQ=</DigestValue>
+    </Reference>
+  </SignedInfo>
+  <SignatureValue>
+    UP4d4hqB705polFfdb1D7ayCh2HBG+XAYYeJLilolimdl3LCj75gsxlEzD44Ziwa
+    PKz0964JSJaaVNd3qq/uHgqaBz5f1AcLNUsKC0dYrV1E9NugdFKjh57seVBSD59a
+    sdlhnZl9cvwH1AWkXEL0bYnBLpLNHiy18tGdZogw1SGJ5/tzzSRJjcZ5T2cQL13u
+    zdvDY8gHttUSJuScCU3rUScQkRmnGB7jNk1zmDogpXm4RtwvpCJx8AIWTQVN2YtI
+    ShDS1KvmPrXoiJagrNpg/MiXpECaHP+H2H859xvgDrCNv5UVkavdqCzQORLrwrvY
+    ETjvEpF47GlaVLuRJwMkOQ==
+  </SignatureValue>
+  <KeyInfo>
+    <KeyValue>
+      <RSAKeyValue>
+        <Modulus>
+          66bDq/YaLpxGY1XyM7UCSmv3EDxsmhpAGovI0J2KG+DzUGz8keB7H4gY+LrWys9V
+          F6h6bEU/1BDaFe+1U0lGd0T7phko2E5VfBLLbMDTp660DCC2SmKUbrTu+gByj8Iv
+          vmsrbpwx+51VG4hgtVtdlevIBVa9O7LDKqeYBUuQNY9qv6/dr2PLMbpLvTM5+m+J
+          k83OD9/lrVAPVlYh/dMFTOpb+MMuauvI0ZWdWUrBLFsEOpq/UFh/6nJvVqPEBWxR
+          B5mmavla/0nExiNjkfWe94JoYsrw+QsJc3dSnpLb1u5Wllu/RdjemFyrZjrgPgO2
+          dNaEjlsx5VnLbUbxIu5+gw==
+        </Modulus>
+        <Exponent>AQAB</Exponent>
+      </RSAKeyValue>
+    </KeyValue>
+    <X509Data>
+      
+      <X509Certificate>
+        MIIGcTCCBVmgAwIBAgIDBkLXMA0GCSqGSIb3DQEBCwUAMIGmMQswCQYDVQQGEwJD
+        TDEYMBYGA1UEChMPQWNlcHRhLmNvbSBTLkEuMUgwRgYDVQQDEz9BY2VwdGEuY29t
+        IEF1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhIENsYXNlIDIgUGVyc29uYSBOYXR1cmFs
+        IC0gRzQxHjAcBgkqhkiG9w0BCQEWD2luZm9AYWNlcHRhLmNvbTETMBEGA1UEBRMK
+        OTY5MTkwNTAtODAeFw0yMzEyMjExMzU4MTRaFw0yNjEyMjExMzU4MTRaMIGIMQsw
+        CQYDVQQGEwJDTDEYMBYGA1UEDBMPUEVSU09OQSBOQVRVUkFMMSUwIwYDVQQDExxY
+        SU1FTkEgUEFPTEEgVE9MRURPIEdPTlpBTEVaMSMwIQYJKoZIhvcNAQkBFhR4dG9s
+        ZWRvQHRyYW5zYmFuay5jbDETMBEGA1UEBRMKMTM2ODI5MjUtNDCCASIwDQYJKoZI
+        hvcNAQEBBQADggEPADCCAQoCggEBAOumw6v2Gi6cRmNV8jO1Akpr9xA8bJoaQBqL
+        yNCdihvg81Bs/JHgex+IGPi61srPVReoemxFP9QQ2hXvtVNJRndE+6YZKNhOVXwS
+        y2zA06eutAwgtkpilG607voAco/CL75rK26cMfudVRuIYLVbXZXryAVWvTuywyqn
+        mAVLkDWPar+v3a9jyzG6S70zOfpviZPNzg/f5a1QD1ZWIf3TBUzqW/jDLmrryNGV
+        nVlKwSxbBDqav1BYf+pyb1ajxAVsUQeZpmr5Wv9JxMYjY5H1nveCaGLK8PkLCXN3
+        Up6S29buVpZbv0XY3phcq2Y64D4DtnTWhI5bMeVZy21G8SLufoMCAwEAAaOCAsIw
+        ggK+MB8GA1UdIwQYMBaAFGWlqz4/yLZRbRF+X8MKB+ZDoAi2MB0GA1UdDgQWBBRn
+        V/byyIdnVbp//0bmGwiFQc9xWzALBgNVHQ8EBAMCBPAwHQYDVR0lBBYwFAYIKwYB
+        BQUHAwIGCCsGAQUFBwMEMBEGCWCGSAGG+EIBAQQEAwIFoDCB9QYDVR0gBIHtMIHq
+        MIHnBggrBgEEAbVrAjCB2jAxBggrBgEFBQcCARYlaHR0cHM6Ly9hY2c0LmFjZXB0
+        YS5jb20vQ1BTLUFjZXB0YWNvbTCBpAYIKwYBBQUHAgIwgZcwFhYPQWNlcHRhLmNv
+        bSBTLkEuMAMCAQkafUVsIHRpdHVsYXIgaGEgc2lkbyB2YWxpZGFkbyBlbiBmb3Jt
+        YSBvbmxpbmUsIHF1ZWRhbmRvIGhhYmlsaXRhZG8gZWwgQ2VydGlmaWNhZG8gcGFy
+        YSB1c28gdHJpYnV0YXJpbywgcGFnb3MsIGNvbWVyY2lvIHkgb3Ryb3MuMFoGA1Ud
+        EgRTMFGgGAYIKwYBBAHBAQKgDBYKOTY5MTkwNTAtOKAkBggrBgEFBQcIA6AYMBYM
+        Cjk2OTE5MDUwLTgGCCsGAQQBwQECgQ9pbmZvQGFjZXB0YS5jb20wXwYDVR0RBFgw
+        VqAYBggrBgEEAcEBAaAMFgoxMzY4MjkyNS00oCQGCCsGAQUFBwgDoBgwFgwKMTM2
+        ODI5MjUtNAYIKwYBBAHBAQKBFHh0b2xlZG9AdHJhbnNiYW5rLmNsMEcGCCsGAQUF
+        BwEBBDswOTA3BggrBgEFBQcwAYYraHR0cHM6Ly9hY2c0LmFjZXB0YS5jb20vYWNn
+        NC9vY3NwL0NsYXNlMi1HNDA/BgNVHR8EODA2MDSgMqAwhi5odHRwczovL2FjZzQu
+        YWNlcHRhLmNvbS9hY2c0L2NybC9DbGFzZTItRzQuY3JsMA0GCSqGSIb3DQEBCwUA
+        A4IBAQBYT539pRHu8m9MZsH0icW8cZziWzqfZiKQL8iaoWa1Hhz9NthxUXQ6OK+E
+        Vb+mev25DZxoSlWhEmcycLm1MoO2OcTAS3fEx39q3OcnXZBa/2/aQVCsQnN3xDo4
+        R8FSN2a0fYNH3bQvDLs0jGZdnIw8hyVHHKY/KAjhmdmKpfYpWi6YWAySIB6vImYT
+        nHl32n6ipcoTz5kLZlocR8Ebcb5gyspXuI1GAM6zUQmsHRrfFhNbPAUsJkKD7IEw
+        KVH6KT65yTopJJA4uh2tW28J4ZjO+Lnvk20xWQAbWYq6cgov1tfxYFI8aAhD4irn
+        sJa5aHxXdbdkucJeXryxOPErbhYV
+      </X509Certificate>
+    </X509Data>
+  </KeyInfo>
+</Signature>
+</DTE>
+  </SetDTE>
+</EnvioDTE>

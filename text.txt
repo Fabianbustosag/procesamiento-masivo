@@ -1,0 +1,49 @@
+Función 1:
+Leyendo filas con índices: [0, 1]
+Leyendo filas con índices: [6, 7]
+Leyendo filas con índices: [12, 13]
+Leyendo filas con índices: [18, 19]
+
+Función 2:
+Leyendo filas con índices: [2, 3]
+Leyendo filas con índices: [8, 9]
+Leyendo filas con índices: [14, 15]
+Leyendo filas con índices: [20, 21]
+
+Función 3:
+Leyendo filas con índices: [4, 5]
+Leyendo filas con índices: [10, 11]
+Leyendo filas con índices: [16, 17]
+Leyendo filas con índices: [22, 23]
+
+
+
+Función 1:
+Leyendo filas con índices: [0, 1, 2]
+Leyendo filas con índices: [9, 10, 11]
+Leyendo filas con índices: [18, 19, 20]
+
+Función 2:
+Leyendo filas con índices: [3, 4, 5]
+Leyendo filas con índices: [12, 13, 14]
+Leyendo filas con índices: [21, 22, 23]
+
+Función 3:
+Leyendo filas con índices: [6, 7, 8]
+Leyendo filas con índices: [15, 16, 17]
+Leyendo filas con índices: [24, 25, 26]
+
+Función 1:
+Leyendo filas con índices: [0, 1, 2, 3, 4]
+Leyendo filas con índices: [15, 16, 17, 18, 19]
+Leyendo filas con índices: [30, 31, 32, 33, 34]
+
+Función 2:
+Leyendo filas con índices: [5, 6, 7, 8, 9]
+Leyendo filas con índices: [20, 21, 22, 23, 24]
+Leyendo filas con índices: [35, 36, 37, 38, 39]
+
+Función 3:
+Leyendo filas con índices: [10, 11, 12, 13, 14]
+Leyendo filas con índices: [25, 26, 27, 28, 29]
+Leyendo filas con índices: [40, 41, 42, 43, 44]b
