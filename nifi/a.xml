@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd" version="1.0">
+  <SetDTE ID="LibreDTE_SetDoc">
+    <Caratula version="1.0">
+      <RutEmisor>16383874-5</RutEmisor>
+      <RutEnvia>16383874-5</RutEnvia>
+      <RutReceptor>96722400-6</RutReceptor>
+      <FchResol>2014-10-21</FchResol>
+      <NroResol>99</NroResol>
+      <TmstFirmaEnv>2024-02-06T07:24:01</TmstFirmaEnv>
+      <SubTotDTE>
+        <TpoDTE>34</TpoDTE>
+        <NroDTE>1</NroDTE>
+      </SubTotDTE>
+    </Caratula>
+    <DTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  
+<Documento ID="MiPE16383874-6306">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>34</TipoDTE>
+        <Folio>89</Folio>
+        <FchEmis>2024-01-28</FchEmis>
+        <TpoTranCompra>1</TpoTranCompra>
+        <TpoTranVenta>1</TpoTranVenta>
+        <FmaPago>2</FmaPago>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>16383874-5</RUTEmisor>
+        <RznSoc>LUIS SEBASTIAN SAAVEDRA GUAJARDO</RznSoc>
+        <GiroEmis>TRANSPORTE DE PASAJEROSARRIENDO DE INMUEBLES</GiroEmis>
+        <Telefono>6</Telefono>
+        <CorreoEmisor>LSAAVEDRAGUAJARDO@HOTMAIL.COM</CorreoEmisor>
+        <Acteco>681012</Acteco>
+        <CdgSIISucur>75802633</CdgSIISucur>
+        <DirOrigen>I CTINOS 1603</DirOrigen>
+        <CmnaOrigen>PENALOLEN</CmnaOrigen>
+        <CiudadOrigen>Santiago</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>96722400-6</RUTRecep>
+        <RznSocRecep>PACIFICO CABLE SPA</RznSocRecep>
+        <GiroRecep>ALQUILER DE OTROS TIPOS DE MAQUINARIAS Y</GiroRecep>
+        <DirRecep>AV ALONSO DE CORDOVA 3788 OF 61 B</DirRecep>
+        <CmnaRecep>VITACURA</CmnaRecep>
+        <CiudadRecep>Santiago</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntExe>898498</MntExe>
+        <MntTotal>898498</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <NmbItem>Arriendo &#xC1;lvaro Casanova</NmbItem>
+      <QtyItem>1.00</QtyItem>
+      <PrcItem>898498.00</PrcItem>
+      <MontoItem>898498</MontoItem>
+    </Detalle>
+<TED version="1.0"><DD><RE>16383874-5</RE><TD>34</TD><F>89</F><FE>2024-01-28</FE><RR>96722400-6</RR><RSR>PACIFICO CABLE SPA</RSR><MNT>898498</MNT><IT1>Arriendo &#xC1;lvaro Casanova</IT1><CAF version="1.0"><DA><RE>16383874-5</RE><RS>LUIS SEBASTIAN SAAVEDRA GUAJARDO</RS><TD>34</TD><RNG><D>89</D><H>89</H></RNG><FA>2024-02-06</FA><RSAPK><M>ngV+r4+IgK+c/nvo3m/2bIYPVaabqMHoptqRQ49Zl6LSevF/3sBg8rLKFsBr8CF4/ev9OIGLRRKwtkO8M/5wlQ==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">dduw/F3Wk34LFhMj/p4UHGDPAE1bCJcW8Tnc6wUXtxUS+fiQsBfbcYlqPwap7Hta9sZrefXRR/CO7MfeDn/efg==</FRMA></CAF><TSTED>2024-02-06T07:23:49</TSTED></DD><FRMT algoritmo="SHA1withRSA">jZhZt1/HGeE+PVyDW21n9cxKpiWog5pmNpSauYmKuOhYJt3x8E6upAexYGb4nRPD3AspWO4pTtT6r7bk7nZTXw==</FRMT></TED>
+    <TmstFirma>2024-02-06T07:23:49</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE16383874-6306">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>R6vIlwInLFQYoKbMSII4suN3FDc=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+Muku4WA6V9skApP/fkfNl2MFRQXUA6r43fiJ0RMzH+36+pu3aDXkwHydUEPwt3F2r3Y7fhOOJ7wh
++YLQywggsoEsn1/tGJOee5enDgVKieHigLolJCt5/B+EhcRWhY+cs+TK4bWRPV7125qO0Cz6q0Us
+u4eqIgfEc/3D7JxelxBH4zS6hp0LtKPuPPtwyTUvkHI9hvSnxdpdh8jZH/geg9SNdjOVwub/eJoI
+WuNFaCwYnfhY8B8IX/FUzg3N3tKftfVeQXf2R/676MKJfFAmwNGafm5RSssV3FNf0IYm8jDBOiVq
+NYCZFYI/Eeycj0LmgX3DPj8NAQL2Gn4f/MWOAQ==
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+z7QiP1PmM4zzNI+wbbs0O+QuXvQ5iLRgjo9Bn7p3ide8sOMoWOR05T7pLijq8RliAT3R++VZRWd0
+A9CRVlePL+52YESy0lj8fugHH9d3+6sPmjIleZ80oN7sDloIqAQZZiiPWvu+CgE90z+JOUbxkXxN
+4WhYiLyfOIrKU3vp8JN06mat1/WMwRfpo0Mnr5Bjtzwkl4tZH1BTGVJi1z+mRWIzBJMf9kEtmOur
+I7xEPNxZUl1bIMCoMce7ReJSu5tKi+b/pal59Ty0Iy57ib7mrCKuFh0DVZ8QP5EPWVfsXS7uC4wj
+Wql3dn0oYbfQhWRVCYoTx8rD4UBSMI/49TvieQ==
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIH3jCCBcagAwIBAgIKKjtWRQABAAdF6DANBgkqhkiG9w0BAQsFADCBvzELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMR4wHAYDVQQD
+ExVFLUNFUlRDSElMRSBDQSBGRVMgMDIxJjAkBgkqhkiG9w0BCQEWF3NjbGllbnRlQGUtY2VydGNo
+aWxlLmNsMB4XDTIzMDkwNTAxNDE1N1oXDTI0MDkwNDAxNDE1N1owgdoxCzAJBgNVBAYTAkNMMSIw
+IAYDVQQIExlNRVRST1BPTElUQU5BIERFIFNBTlRJQUdPMREwDwYDVQQHEwhTQU5USUFHTzEsMCoG
+A1UEChMjTFVJUyBTRUJBU1RJQU4gIFNBQVZFRFJBICBHVUFKQVJETyAxCjAIBgNVBAsMASoxLDAq
+BgNVBAMTI0xVSVMgU0VCQVNUSUFOICBTQUFWRURSQSAgR1VBSkFSRE8gMSwwKgYJKoZIhvcNAQkB
+Fh1MU0FBVkVEUkFHVUFKQVJET0BIT1RNQUlMLkNPTTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAM+0Ij9T5jOM8zSPsG27NDvkLl70OYi0YI6PQZ+6d4nXvLDjKFjkdOU+6S4o6vEZYgE9
+0fvlWUVndAPQkVZXjy/udmBEstJY/H7oBx/Xd/urD5oyJXmfNKDe7A5aCKgEGWYoj1r7vgoBPdM/
+iTlG8ZF8TeFoWIi8nziKylN76fCTdOpmrdf1jMEX6aNDJ6+QY7c8JJeLWR9QUxlSYtc/pkViMwST
+H/ZBLZjrqyO8RDzcWVJdWyDAqDHHu0XiUrubSovm/6WpefU8tCMue4m+5qwirhYdA1WfED+RD1lX
+7F0u7guMI1qpd3Z9KGG30IVkVQmKE8fKw+FAUjCP+PU74nkCAwEAAaOCAr0wggK5MIIBXwYDVR0g
+BIIBVjCCAVIwggFOBggrBgEEAcNSBTCCAUAwPQYIKwYBBQUHAgEWMWh0dHBzOi8vd3d3LmUtY2Vy
+dGNoaWxlLmNsL3BvbGl0aWNhcy15LXByYWN0aWNhcy8wgf4GCCsGAQUFBwICMIHxHoHuAEUAbAAg
+AHIAZQBzAHAAbwBuAGQAZQByACAAZQBzAHQAZQAgAGYAbwByAG0AdQBsAGEAcgBpAG8AIABlAHMA
+IAB1AG4AIAByAGUAcQB1AGkAcwBpAHQAbwAgAGkAbgBkAGkAcwBwAGUAbgBzAGEAYgBsAGUAIABw
+AGEAcgBhACAAZABhAHIAIABpAG4AaQBjAGkAbwAgAGEAbAAgAHAAcgBvAGMAZQBzAG8AIABkAGUA
+IABjAGUAcgB0AGkAZgBpAGMAYQBjAGkA8wBuAC4AIABQAG8AcwB0AGUAcgBpAG8AcgBtAGUAbgB0
+AGUALDAdBgNVHQ4EFgQUgfQca3ffIweMwC3T54RWp0PCaeswCwYDVR0PBAQDAgTwMCMGA1UdEQQc
+MBqgGAYIKwYBBAHBAQGgDBYKMTYzODM4NzQtNTAfBgNVHSMEGDAWgBR01iGz9FroLXy7WQZjQ+9p
+tDqTBDBABgNVHR8EOTA3MDWgM6Axhi9odHRwOi8vY3JsLmVjZXJ0Y2hpbGUuY2wvRS1DRVJUQ0hJ
+TEVDQUZFUzAyLmNybDA9BggrBgEFBQcBAQQxMC8wLQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3NwZmVz
+LmVjZXJ0Y2hpbGUuY2wvb2NzcDA8BgkrBgEEAYI3FQcELzAtBiUrBgEEAYI3FQiB3dJNl9Q6homd
+BoeIzm+Dr8xgRYWkvjiCnp9tAgFkAgECMCMGA1UdEgQcMBqgGAYIKwYBBAHBAQKgDBYKOTY5Mjgx
+ODAtNTANBgkqhkiG9w0BAQsFAAOCAgEAC/unW8tPyV9dFtGVFdWfKolxolLlEuMLb6tsnc8x0IGO
+gsBsieybWhkKJVynSQUBo6ue++406hprNRlwW2tGKkxPtJLmYrVl4Ftr6N2xrg+lcxNc952btqI1
+1n/AjdTa7i0KXZt5jh1d3feuNSA6RU8SubU/3GTa4RmD5B1229sHGdCTB1h/zL5Q7Jv/m5MM39rM
+uJH+SEm3OcqgvODnmXmtHEvWO8sDrCRXxmgJvIWFDIuO77/XKWBcB0/JX30vsvQaoCNEn5LJjYdh
+7WvmVgxMs5gcIjqC3Ks1G3b2MLSie5UF6pmonormNDgTeQHywiREisa9gPs5CuAPpzeCTZ8ZAWGl
+1Mt0VF3Hnc2wVrUHUmis/kwTbPRaTbdPGVLbBg/WPhxOFByknP61hOPy/NwQWas4kPB7FQKi3Xon
+c/HgT+wKf4eMGly1WBeIhMIETAvXBMBE1F1kffDZXVzUydaYtSt2kdyswxy1wYMllr/sxlXJGGmV
+FTgWoZEHVHLL61ucRUWtovb6TkRU2s4JCdFNU7w46gL+5eGL4PRvrWdmhcAn+vhuA9par9+wCndD
+WXVy1DAeZVe/PkeuO4ymQFe5vNrVpX53SD/6JppcLWzyp7bTmSU/qhs+9VGFKacQNqXeW6qEM1dl
+5Y0Fq33cnaZTiIKwpuGjviKT7kkSevY=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+  </SetDTE>
+</EnvioDTE>
